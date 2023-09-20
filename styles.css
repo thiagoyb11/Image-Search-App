@@ -90,12 +90,15 @@ button {
         gap: 5px;
         grid-template-columns: 400px 400px;
     }
+    .search-button {
+        height: 200px;
+        width: 300px;
+    }
 }
 @media (max-width: 636px) {
     .search-button {
         width: 300px;
         margin-top: 10px;
-        height: 200px;
     }
     input {
         width: 300px;
