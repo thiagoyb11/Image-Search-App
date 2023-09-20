@@ -95,6 +95,7 @@ button {
     .search-button {
         width: 300px;
         margin-top: 10px;
+        height: 200px;
     }
     input {
         width: 300px;
